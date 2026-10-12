@@ -1,0 +1,8 @@
+[
+  {"id": 1, "title": "Write project README", "status": "open"},
+  {"id": 2, "title": "Set up unit tests", "status": "done"},
+  {"id": 3, "title": "Review pull request #7", "status": "Open"},
+  {"id": 4, "title": "Ship v0.1", "status": "done"},
+  {"id": 5, "title": "Fix login redirect", "status": "open"},
+  {"id": 6, "title": "Retro notes", "status": "DONE"}
+]

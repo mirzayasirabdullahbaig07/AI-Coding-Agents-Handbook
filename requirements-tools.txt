@@ -1,0 +1,5 @@
+# Only needed to REGENERATE screenshots / PDF reports (tools/). The task code itself needs nothing.
+playwright
+pygments
+reportlab
+pillow
